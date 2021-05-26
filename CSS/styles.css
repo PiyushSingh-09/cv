@@ -1,0 +1,32 @@
+body {
+    background-color: #e3fdfd;
+    margin-left: 1%;
+  }
+
+hr {
+    background-color: none;
+    border-style: dotted none none;
+    border-color: #3fc1c9;
+    border-width: 5px;
+    margin-left: 0%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+  }
+
+
+
+h1 {
+  color: #00adb5;
+}
+h2 {
+  color: #00adb5;
+}
+h3 {
+  color: #71c9ce;
+}
+
+a:link { color: blue; }          /* Unvisited links */
+a:visited { color: purple; }     /* Visited links */
+a:hover { background: white; }   /* Hovered links */
+a:active { color: red; }
